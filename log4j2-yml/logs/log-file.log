@@ -1,0 +1,14 @@
+2019-05-29 19:29:12.099  INFO 596 --- [main] com.log4j2.yml.Log4j2YmlApplication      : Starting Log4j2YmlApplication on jaydeeps-MacBook-Air.local with PID 596 (/Users/jaydeep/Documents/logging/log4j2-yml/target/classes started by jaydeep in /Users/jaydeep/Documents/logging/log4j2-yml)
+2019-05-29 19:29:12.102  INFO 596 --- [main] com.log4j2.yml.Log4j2YmlApplication      : No active profile set, falling back to default profiles: default
+2019-05-29 19:29:13.180  INFO 596 --- [main] com.log4j2.yml.Log4j2YmlApplication      : Started Log4j2YmlApplication in 16.908 seconds (JVM running for 17.731)
+2019-05-29 19:29:13.285  INFO 596 --- [main] com.log4j2.yml.Log4j2YmlApplication      : This is an info message.
+2019-05-29 19:29:13.289  WARN 596 --- [main] com.log4j2.yml.Log4j2YmlApplication      : This is a warn message.
+2019-05-29 19:29:13.289 ERROR 596 --- [main] com.log4j2.yml.Log4j2YmlApplication      : This is an error message.
+2019-05-29 19:29:13.290 ERROR 596 --- [main] com.log4j2.yml.Log4j2YmlApplication      : This is a fatal message.
+2019-05-29 19:30:38.749  INFO 598 --- [main] com.log4j2.yml.Log4j2YmlApplication      : Starting Log4j2YmlApplication on jaydeeps-MacBook-Air.local with PID 598 (/Users/jaydeep/Documents/logging/log4j2-yml/target/classes started by jaydeep in /Users/jaydeep/Documents/logging/log4j2-yml)
+2019-05-29 19:30:38.753  INFO 598 --- [main] com.log4j2.yml.Log4j2YmlApplication      : No active profile set, falling back to default profiles: default
+2019-05-29 19:30:39.592  INFO 598 --- [main] com.log4j2.yml.Log4j2YmlApplication      : Started Log4j2YmlApplication in 16.342 seconds (JVM running for 16.845)
+2019-05-29 19:30:39.646  INFO 598 --- [main] com.log4j2.yml.Log4j2YmlApplication      : This is an info message.
+2019-05-29 19:30:39.649  WARN 598 --- [main] com.log4j2.yml.Log4j2YmlApplication      : This is a warn message.
+2019-05-29 19:30:39.649 ERROR 598 --- [main] com.log4j2.yml.Log4j2YmlApplication      : This is an error message.
+2019-05-29 19:30:39.651 ERROR 598 --- [main] com.log4j2.yml.Log4j2YmlApplication      : This is a fatal message.
